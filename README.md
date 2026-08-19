@@ -24,3 +24,6 @@
 | 裝置管理員 | GitHub | [xusk1234/Linux-Devices-Manager](https://github.com/xusk1234/Linux-Devices-Manager) | Deepseek |
 | Sticky Keys | GitHub | [xusk1234/Linux-Sticky-key](https://github.com/xusk1234/Linux-Sticky-key) | Deepseek |
 | UWP彈出視窗 | GitHub | [0x8000S/UMessageBox](https://github.com/0x8000S/UMessageBox) | 未知 |
+
+還有，感謝這位編寫者，整個表格都是它寫的：
+![](https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg)
