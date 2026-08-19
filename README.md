@@ -1,4 +1,4 @@
-# GNU/Windows List
+# Linux NT List
 列出那些Linux勾石項目。
 
 其實此名稱不夠直觀，因為這樣一改只有核心是GNU/Linux了。
