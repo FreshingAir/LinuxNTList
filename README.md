@@ -16,6 +16,7 @@
 | 自動修復 | GitHub | [xusk1234/Linux-Auto-Fix](https://github.com/xusk1234/Linux-Auto-Fix) | Deepseek |
 | 系統評估 | GitHub | [WhatDamon/WinSAT](https://github.com/WhatDamon/WinSAT) | Deepseek |
 | explorer | GitHub | [macOS-Terminal/Explorer-for-Linux](https://github.com/macOS-Terminal/Explorer-for-Linux) | Deepseek & Gemini |
+| SAS | Github | [macOS-Terminal/SAS-for-Linux](https://github.com/macOS-Terminal/SAS-for-Linux/) | Deepseek & Gemini |
 | Windows 小工具 | GitHub | [phillin-liu/WindowsWidget-for-Linux](https://github.com/phillin-liu/WindowsWidget-for-Linux) | TRAE & 智譜清言 |
 | 任務計畫程式 | GitHub | [1ctrl-cv/taskschd4Linux](https://github.com/1ctrl-cv/taskschd4Linux) | Deepseek |
 | 執行視窗 | GitHub | [chenjin1494/linux-run](https://github.com/chenjin1494/linux-run) | Deepseek |
