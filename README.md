@@ -24,7 +24,7 @@
 | 裝置管理員 | GitHub | [xusk1234/Linux-Devices-Manager](https://github.com/xusk1234/Linux-Devices-Manager) | Deepseek |
 | Sticky Keys | GitHub | [xusk1234/Linux-Sticky-key](https://github.com/xusk1234/Linux-Sticky-key) | Deepseek |
 | UWP彈出視窗 | GitHub | [0x8000S/UMessageBox](https://github.com/0x8000S/UMessageBox) | 未知 |
-| Winget for Linux | Github | [jihan-hanhan/Winget-for-Linux](https://github.com/jihan-hanhan/Winget-for-Linux) | Qwen |
+| Winget for Linux | Github | [jihan-hanhan/Winget-for-Linux](https://github.com/jihan-hanhan/Winget-for-Linux) | Qwen & Trae |
 | UAC | GitHub | [WenAnrong/Linux_uac](https://github.com/WenAnrong/Linux_uac) | Deepseek |
 | Safe Unlink | Github | [WenAnrong/safeunlink](https://github.com/WenAnrong/safeunlink) | Deepseek |
 
